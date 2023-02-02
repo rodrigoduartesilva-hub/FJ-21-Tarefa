@@ -1,4 +1,4 @@
-# FJ-21-Tarefa
-Arquivo referente ao projeto de Tarefa criado durante o curso de Web da Caelum
+# FJ-21-Task
+File referring to the Task project created during the Caelum Web course
 
-Arquivo com os jars. inclusos devido a falta do uso de Maven no projeto
+File with the jars. included due to lack of use of Maven in the project
